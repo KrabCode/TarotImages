@@ -1,0 +1,1 @@
+generated using DailyTarotDiscordBot/image_fetcher_utility.js
